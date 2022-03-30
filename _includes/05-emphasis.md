@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Jag är en glad person_<br>
+_Min pad thai är **jävligt** god_<br>
+Jag är redan _22 år_ gammal.<br>
+Basketball **4-life bro**
